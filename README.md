@@ -20,9 +20,3 @@ This project explores a small sample of auto insurance claims to detect patterns
 ## 🔍 Model Performance
 Logistic Regression model trained and tested on synthetic data  
 Achieved a basic classification result with potential for improvement on larger data
-
----
-
-📂 This project serves as a portfolio sample combining fraud detection logic, visual storytelling, and model development.
-# claim-risk-profiler
-Fraud detection project using a synthetic insurance claims dataset
